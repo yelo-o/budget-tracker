@@ -10,3 +10,6 @@
 
 ## Clerk
 [👉 Clerk Quick Start](https://clerk.com/docs/quickstarts/nextjs)
+
+## shadcn-ui
+[👉 shadcn-ui document](https://ui.shadcn.com/docs)
